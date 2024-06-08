@@ -1,0 +1,1 @@
+npm install express mongoose bcryptjs jsonwebtoken nodemailer nanoid body-parser cors dotenv
